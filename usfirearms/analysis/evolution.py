@@ -73,21 +73,21 @@ RESPONSE_4DOT2 = (
     "i les peticions d'armes curtes (pistoles) en el període de " +
     "1998 a 2020. En ambdós casos, la tendència ha estat creixent " +
     "fins al 2016, on després disminueix.\n" +
-    "\nPer a les armes llargues, aquesta correlació no és tan " +
+    "Per a les armes llargues, aquesta correlació no és tan " +
     "evident, essent més o menys constant el nombre de peticions " +
     "durant gairebé tot el període.\n" +
-    "\nS'observa, també, que el nombre de peticions d'armes llargues " +
+    "S'observa, també, que el nombre de peticions d'armes llargues " +
     "és molt major a l'expedició de llicències fins a 2010, on " +
     "s'iguala i torna a créixer fins a 2013. Aquest fet també " +
     "s'observa per a les armes curtes fins a 2006. Sembla, doncs, " +
     "que hi ha un retard en l'expedició de llicències que es comença " +
     "a solucionar per complet a partir de 2014.\n" +
-    "\nL'efecte de la pandèmia de coronavirus (2020) també és " +
+    "L'efecte de la pandèmia de coronavirus (2020) també és " +
     "evident, amb un descens brusc del nombre de permisos i peticions " +
     "d'armes.\n" +
-    "\nTanmateix, el repunt de 2016 concorda amb el màxim de " +
+    "Tanmateix, el repunt de 2016 concorda amb el màxim de " +
     "víctimes per tirotejos del 2017 (https://cnnespanol.cnn.com/2024" +
     "/02/15/cultura-armas-estados-unidos-mundo-trax/).\n" +
-    "\nSense dades postpandèmia, és difícil pronosticar la " +
+    "Sense dades postpandèmia, és difícil pronosticar la " +
     "tendència en els pròxims anys.\n"
 )

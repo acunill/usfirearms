@@ -61,7 +61,7 @@ def clean_csv(data: pd.DataFrame) -> pd.DataFrame:
 
     # Select columns and print final column names
     data = data.loc[:, cols]
-    print(f"\nSelected columns: {list(data.columns)}\n")
+    print(f"\nSelected columns: {list(data.columns)}")
     return data
 
 
@@ -82,12 +82,5 @@ def rename_col(data: pd.DataFrame) -> pd.DataFrame:
         data = data.rename(columns=colnames, inplace=False)
 
     # Show new column names to the stdout
-    print(f"\nNew column names: {list(data.columns)}\n")
-    print((
-        "\nNOTA: L'anunciat diu que s'ha d'implementar al conjunt de dades " +
-        "que conté totes les columnes. No li he trobat el sentit ja que " +
-        "sempre treballarem amb el subconjunt de dades seleccionat i, per " +
-        "tant, he trobat més lògic homogeneitzar les columnes del conjunt " +
-        "seleccionat.\n"
-    ))
+    print(f"\nNew column names: {list(data.columns)}")
     return data

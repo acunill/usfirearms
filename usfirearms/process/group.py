@@ -55,7 +55,7 @@ def print_biggest_guns(data: pd.DataFrame, gun_type: str) -> None:
     # Print message with the result
     gun_type_txt = {"handgun": "curtes", "longgun": "llargues"}
     msg = ("\nEl major nombre de peticions d'armes {} s'ha registrat " +
-           "l'any {} a l'estat de {}, amb un total de {} armes.\n")
+           "l'any {} a l'estat de {}, amb un total de {} armes.")
     print(msg.format(gun_type_txt[gun_type], res["year"], res["state"],
                      int(max_guns)))
 
