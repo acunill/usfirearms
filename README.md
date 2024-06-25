@@ -55,3 +55,30 @@ S'utilitza també dades poblacionals obtingudes d'un repositori
 * `LICENCE` - llicència del projecte
 * `README.md` - arxiu README
 * `requirements.txt` - arxiu de requeriments de llibreries
+
+## ¿Com executar el programa?
+
+Per executar l'anàlisi des de la línia de comandes cal seguir els següents 
+passos:
+
+1. `git clone https://github.com/acunill/usfirearms.git`
+2. `cd ./usfirearms`
+3. `pip install -r requirements.txt`
+4. `python3 ./main.py`
+
+Si s'obtenen els arxius del projecte de forma local (p. ex, un arxiu ZIP), es 
+pot saltar el pas 1.
+
+Tot el projecte està desenvolupat en Python 3.10.0.
+
+## Sortides
+
+El programa retorna els resultats de l'anàlisi (respostes als punts de la PCA) 
+per la consola i genera 3 mapes en format PNG que es desen a la carpeta
+`outputs`.
+
+## Notes
+
+Per manca de temps, els tests sobre el codi es troben en desenvolupament.
+Només n'he creat un per rebre el comentari del professor, perquè m'indiqui si
+vaig en la bona direcció.
