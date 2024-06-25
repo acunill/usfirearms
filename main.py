@@ -116,7 +116,7 @@ def main():
     except Exception as error:  # pylint: disable=W0703
         print(error)
     else:
-        print("\nChoropleths successfully mapped at outputs folder.")
+        print("Choropleths successfully mapped at outputs folder.\n")
 
 
 # Run as a program
