@@ -11,8 +11,7 @@ la Ciència de Dades del Màster en Ciència de Dades de la UOC.
 L'objectiu és realitzar un projecte de ciència de dades amb totes les seves
 parts. Per fer-ho, es proposa estudiar el comportament de la població dels 
 Estats Units pel que fa a l’ús d’armes de foc. S'utilitza un conjunt de dades 
-obtingut de la base de dades de  
-[Kaggle](https://www.kaggle.com/datasets/pedropereira94/nics-firearm-backgroundchecks),
+obtingut de la base de dades de [Kaggle](https://www.kaggle.com/datasets/pedropereira94/nics-firearm-backgroundchecks),
 que conté informació (per data i estat) de la verificació d’antecedents
 de gent que es vol treure el permís d’armes.
 
