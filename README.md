@@ -66,10 +66,10 @@ passos:
 3. `pip install -r requirements.txt`
 4. `python3 ./main.py`
 
-Si s'obtenen els arxius del projecte de forma local (p. ex, un arxiu ZIP), es 
-pot saltar el pas 1.
-
 Tot el projecte està desenvolupat en Python 3.10.0.
+Si s'obtenen els arxius del projecte de forma local (p. ex, un arxiu ZIP), es 
+pot saltar el pas 1. És recomanable instal·lar les llibreries en un entorn 
+virtual, que s'hauria de crear després del pas 2.
 
 ## Sortides
 
