@@ -36,8 +36,8 @@ S'utilitza també dades poblacionals obtingudes d'un repositori
 ### Estructura principal del projecte
 
 * `data` - dades necessàries per fer l'anàlisi
-  * `nics-firearm-background-checks.csv` - arxiu sobre armes de foc als EUA
-  * `us-state-populations.csv` - arxiu de població del EUA
+  * `nics-firearm-background-checks.csv` - arxiu de dades sobre armes de foc als EUA
+  * `us-state-populations.csv` - arxiu de dades de població del EUA
 * `usfirearms` - mòduls per realitzar les anàlisis
   * `load_data.py` - funcions de l'Exercici 1
   * `process`
@@ -72,7 +72,7 @@ virtual, que s'hauria de crear després del pas 2.
 
 ## Sortides
 
-El programa retorna els resultats de l'anàlisi (respostes als punts de la PCA) 
+El programa retorna els resultats de l'anàlisi (respostes als punts de la PAC) 
 per la consola i genera 3 mapes en format PNG que es desen a la carpeta
 `outputs`.
 
